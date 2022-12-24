@@ -1,5 +1,12 @@
-# Dataton-Team11
-<img src="https://github.com/PavelSofronitskii/Dataton-Team11/blob/main/images/logo.jpg" width="200" height="200" />
+# Добро пожаловать на межгалактический звездный корабль "Dataship":stars:
+Вам предстоит незабываемое путешествие по просторам глубоких данных:tornado:
+
+И увлекательный путь Dataton'a:scroll:
+# Вас приветствует команда - ~~Искуственный~~ ***Естественный интелект***:brain:
+<img src="https://github.com/PavelSofronitskii/Dataton-Team11/blob/main/images/logo.jpg" width="400" height="400" />
+
+## Экипаж нашего корабля:rocket::
+<img src="https://github.com/PavelSofronitskii/Dataton-Team11/blob/main/images/Group.jpg"  />
 
 # Мы используем следующие источники: 
 https://hh.ru/ - сайт с вакансиями по всей россии
