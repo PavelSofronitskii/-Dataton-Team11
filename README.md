@@ -1,2 +1,2 @@
 # -Dataton-Team11
-![logo](PavelSofronitskii/Dataton-Team11/logo.jpg)
+![logo](https://github.com/PavelSofronitskii/Dataton-Team11/blob/main/logo.jpg)
