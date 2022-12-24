@@ -1,2 +1,2 @@
 # -Dataton-Team11
-![logo](‪C:\Users\pamso\Desktop\logo.jpg)
+![logo](PavelSofronitskii/Dataton-Team11/logo.jpg)
