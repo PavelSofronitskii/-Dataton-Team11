@@ -1,0 +1,735 @@
+,vacancy_name,company_name,city,date,workplace_type,level,speciality,area,schedule,salary,python,sql,apache,java
+0,(USA) 2023 Full Time: Sam's Club Sr. Data Scientist,Sam's Club,"Бентонвилл, AR",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+1,Senior Data Scientist,Tecolote Research,"Fort George G. Meade, MD",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+2,Portfolio Data Analyst,Mosaic,"Хьюстон, TX",4 дня назад,Работа в офисе,middle,data analyst,USA,1,1,0,0,0,0
+3,Data Scientist - Risk Analytics,John Deere,"Johnston, IA",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+4,Principal Data Scientist - Pricing & Marketing,CoinFlip,"Чикаго, IL",1 неделю назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+5,Senior Data Scientist - KPM (P3723),84.51?,"Deerfield, IL",1 неделю назад,Удаленная работа,junior,data scientist,USA,1,0,1,1,0,0
+6,Reliability and Data Engineer,"Enertech Wireline Services, L.P.","Anacortes, WA",2 дня назад,Работа в офисе,junior,data engineer,USA,1,0,1,1,0,0
+7,Data Scientist - Data Analytics,Costco Wholesale,"Даллас, TX",1 месяц назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+8,Merchandise Data Analyst,Cracker Barrel,"Лебанон, TN",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+9,Data Support Analyst,Balyasny Asset Management L.P.,"Майами, FL",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+10,Business Intelligence Analyst,"Interest Media, Inc",Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+11,Principal Data Scientist,Gravity IT Resources,Соединенные Штаты Америки,2 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+12,"Data Scientist - Lincolnshire, IL",Camping World,"Линкольншир, IL",2 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+13,Data Scientist - Data Analytics,Costco Wholesale,"Чикаго, IL",1 месяц назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+14,Supply Chain Data Analyst,HTC Global Services,"Оберн-Хилс, MI",1 день назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+15,Business Intelligence,Eclipse Advantage,"Флорида, Соединенные Штаты Америки",4 дня назад,Удаленная работа,middle,unknown,USA,1,0,0,1,0,0
+16,Network Data Engineer,ATN International,"Castle Rock, CO",3 дня назад,Работа в офисе,junior,data engineer,USA,1,0,0,0,0,0
+17,Lead Data Engineer,Abstract,"Нью-Йорк, NY",2 дня назад,Гибридный формат работы,team lead,data engineer,USA,1,1,1,0,1,0
+18,Data Scientist with Polygraph,Deloitte,"Арлингтон, Виргиния, Соединенные Штаты Америки",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,0,1,0,0
+19,Data Scientist - CI Poly,Stanley Reid & Company,"Рестон, VA",6 месяцев назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+20,Business Intelligence Analyst,Amica Insurance,"Линкольн, RI",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+21,JR Data Engineer,"Yoh, A Day & Zimmermann Company","Дарем, NC",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+22,Senior Principal Data Scientist,Keurig Dr Pepper Inc.,"Фриско, TX",4 дня назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+23,Forecasting Data Scientist,Geli,"Калифорния, Соединенные Штаты Америки",3 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,0,0,0
+24,Data Scientist with Polygraph,Deloitte,"Арлингтон, Виргиния, Соединенные Штаты Америки",3 часа назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+25,Data Scientist I,TekWissen ®,"Ватерлоо, IA",2 дня назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+26,Data Scientist - Data Analytics,Costco Wholesale,"Сиэтл, WA",1 месяц назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+27,Data Scientist I,Russell Tobin,"Сан-Франциско, CA",4 дня назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+28,Lead Data Scientist,Lawrence Harvey,Агломерация Нью-Йорка,2 недели назад,Удаленная работа,team lead,data scientist,USA,1,0,1,1,0,0
+29,Principal Data Scientist,GEICO,"Chevy Chase, MD",2 дня назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+30,Energy Star Data Analyst,Sustainable Investment Group (SIG),Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+31,"Associate, Data Scientist",FGS Global,"Вашингтон, DC",2 недели назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,0,0
+32,"Data Scientist, Quality Information & Analytics.",Lucid Motors,"Ньюарк, CA",3 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,1,0
+33,Criminal Intelligence Analyst,"Syntelligent Analytic Solutions, LLC","Вашингтон, DC",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+34,Principal Data Scientist,Whole Foods Market,"Остин, TX",4 дня назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+35,Analyst - Junior Data Scientist,YES! Communities,Агломерация Денвера,1 неделю назад,Работа в офисе,junior,data scientist,USA,1,1,1,1,0,0
+36,Principal Data Scientist,CRB Workforce,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data scientist,USA,1,0,1,0,0,0
+37,Associate Data Scientist (Remote),The Home Depot,"Атланта, GA",2 дня назад,Удаленная работа,junior,data scientist,USA,1,0,1,1,0,0
+38,Data Scientist - FS Poly,Stanley Reid & Company,"Springfield, VA",7 месяцев назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+39,Jr. Data Scientist,Primrose Schools,"Атланта, GA",1 неделю назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,0,0
+40,Principal Data Scientist,ADP,"Алфарета, GA",4 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+41,Senior Data Scientist,Sam's Club,"Бентонвилл, AR",3 дня назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+42,Entry Level Data Analyst,Focus Group,"Чикаго, IL",3 дня назад,Удаленная работа,junior,data analyst,USA,1,0,0,0,0,0
+43,Principal Data Scientist,X4 Life Sciences,"Кембридж, MA",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,1,1,0,0,0
+44,Data Scientist - FS Poly,Stanley Reid & Company,"Рестон, VA",7 месяцев назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+45,Principal Data Scientist,PulsePoint,"Ньюарк, NJ",5 дней назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,0,0,0
+46,2023 Intern - Sr. Data Scientist,BILL,"Сан-Хосе, CA",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+47,Associate Data Analyst,Lumos Fiber,"Хай-Пойнт, NC",2 дня назад,Гибридный формат работы,senior,data analyst,USA,1,0,0,1,0,0
+48,Business Intelligence Analyst,City and County of San Francisco,Область залива Сан-Франциско,2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,1,0,1,0,0
+49,Data Entry Analyst,Robert Half,"Алфарета, GA",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+50,Online Data Analyst,TELUS International,"Форт-Лодердейл, FL",1 день назад,Удаленная работа,junior,data analyst,USA,1,0,0,0,0,0
+51,"Data Scientist, Risk Data Mining, TikTok-US-Tech Services",TikTok,"Сиэтл, WA",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,1,1,1,0,0
+52,Data Scientist - Forecasting,Eli Lilly and Company,"Индианаполис, IN",1 неделю назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+53,Library Data Integration Engineer,EBSCO Information Services,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,1,1,0,0,0
+54,Senior Data Scientist,Pernod Analytics LLC,Агломерация Бостона,5 дней назад,Удаленная работа,junior,data scientist,USA,1,0,1,0,0,0
+55,Data scientist,Acacium Group,Соединенные Штаты Америки,4 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+56,Data Scientist,Harnham,"Нью-Йорк, NY",1 день назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+57,Data Scientist and Cognitive Software Engineer - officer,State Street,"Остин, TX",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,1
+58,Fraud Data Scientist/Fraud Data Analyst,Dice,Соединенные Штаты Америки,3 недели назад,Удаленная работа,junior,data scientist,USA,1,0,0,1,0,0
+59,Mathematical Statistician (Data Scientist) or Statistician (Data Scientist) 12 Month Roster - DH,Internal Revenue Service,"Бирмингем, AL",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+60,"Staff Data Scientist, Safety Insights","Reddit, Inc.","Сан-Франциско, CA",7 часов назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+61,Advanced Analytics Data Scientist,MGM Resorts International,"Лас-Вегас, NV",1 день назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+62,"Data Scientist, Risk",Okcoin,"Сан-Хосе, CA",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+63,Specialist Data Scientist,Tyson Foods,"Спрингдейл, AR",4 дня назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+64,ODDA Data Scientist Analyst,Mars,"Ньюарк, NJ",3 месяца назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,1,0
+65,Data Scientist Senior #1730,Aeyon,"Vienna, VA",2 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+66,Data Scientist (Mid) with Security Clearance,ClearanceJobs,"Springfield, VA",2 недели назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,0,0
+67,Data Scientist Advisor,General Dynamics Information Technology,"Тампа, FL",2 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,1
+68,Data Scientist - Clearance Required,LMI,"Tysons Corner, VA",3 дня назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,0,1
+69,Data Scientist I,Crystal Equation Corporation,"Менло-Парк, CA",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+70,Principal Data Scientist,WhiteCrow Research,"South San Francisco, CA",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+71,Senior Data Scientist - Remote,Walgreens,"Deerfield, IL",1 месяц назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+72,Energy Solutions - Solar/Storage Data Analyst,NextEra Mobility (formerly eIQ Mobility),"Сан-Франциско, CA",3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,1,0,0,0
+73,Data Analyst,Our Parking Space,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+74,Survey Data Specialist,Independent School Management,Соединенные Штаты Америки,4 дня назад,Удаленная работа,junior,unknown,USA,1,1,0,0,0,0
+75,Data Scientist/ML Engineer with Security Clearance,ClearanceJobs,"Groton, CT",2 недели назад,Работа в офисе,junior,data engineer,USA,1,1,0,0,0,0
+76,"Quantitative Researcher, VIX and Volatility ETFs",GTS,"Нью-Йорк, NY",1 день назад,Гибридный формат работы,middle,unknown,USA,1,0,1,0,0,1
+77,Online Data Analyst | Part-time Opportunity,TELUS International AI Data Solutions,"Мичиган, Соединенные Штаты Америки",5 дней назад,Удаленная работа,junior,data analyst,USA,0,0,0,0,0,0
+78,Data Analyst (entry level),Phaxis,"Нью-Йорк, NY",2 дня назад,Гибридный формат работы,junior,data analyst,USA,1,1,0,0,0,0
+79,Data Analyst,Dice,"Лос-Анджелес, CA",17 часов назад,Работа в офисе,junior,data analyst,USA,1,0,1,1,0,1
+80,Data Scientist / Engineer,ManTech,"Springfield, VA",16 часов назад,Гибридный формат работы,junior,data engineer,USA,1,0,0,0,0,0
+81,2023 Summer Intern Program (Strategic Analytics),Bank of Hawaii,"Гонолулу, HI",3 дня назад,Работа в офисе,junior,data analyst,USA,1,0,0,1,0,0
+82,Online Data Analyst,TELUS International,"Майами, FL",1 день назад,Удаленная работа,junior,data analyst,USA,1,0,0,0,0,0
+83,NASA Data Visualization Developer,SAIC,"Верджиния-Бич, VA",3 часа назад,Работа в офисе,junior,unknown,USA,1,0,1,1,0,1
+84,Associate Data Scientist with Security Clearance,ClearanceJobs,"Маклин, VA",1 неделю назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,0,0,0
+85,DATA SCIENTIST - Research Center,Howmet Aerospace,"Whitehall, MI",4 недели назад,Работа в офисе,junior,unknown,USA,1,0,1,1,0,0
+86,Data Scientist / Software Data Engineer with Security Clearance,ClearanceJobs,"Колумбия, MD",3 недели назад,Работа в офисе,junior,data engineer,USA,1,1,0,0,0,0
+87,Data Scientist,SAIC,"Chantilly, VA",2 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+88,Data Scientist V Data Science,Kaiser Permanente,"Пасадина, CA",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,0,1,0,0
+89,Data Scientist - FS Poly,Stanley Reid & Company,"Форт Мид, MD",1 год назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+90,Data Scientist (ML Engineer),Dice,"Вестлейк, TX",1 день назад,Работа в офисе,junior,data engineer,USA,1,0,1,0,0,0
+91,"Sr. Data Scientist, Risk","Ursus, Inc.","Сан-Хосе, CA",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+92,"Data Scientist, Finance",SunPower Corporation,"Остин, TX",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+93,"Senior Data Scientist, Customer Analytics",Harnham,"Калифорния, Соединенные Штаты Америки",4 месяца назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+94,Data Scientist (ML Engineer),Dice,"Джерси-Сити, NJ",2 дня назад,Работа в офисе,junior,data engineer,USA,1,0,1,0,0,0
+95,Data Scientist / Data Analyst with Hadoop,Diverse Lynx,"Саннивейл, CA",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+96,Principal - Card Data Scientist,Ally,"Уилмингтон, DE",1 месяц назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+97,"Analyst, Data Scientist (NCG)",Analog Devices,"Бостон, MA",3 дня назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+98,Data Scientist I,Centene Corporation,"Миссури, Соединенные Штаты Америки",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,0,1,0,0
+99,DATA SCIENTIST I,Crowley,"Джексонвилл, FL",1 день назад,Гибридный формат работы,middle,unknown,USA,1,0,0,1,0,0
+100,"Data Scientist, Jr.",Altamira Technologies Corporation,"Тампа, FL",4 недели назад,Работа в офисе,junior,data scientist,USA,1,0,0,0,0,0
+101,Data scientist,Diverse Lynx,"Плейно, TX",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+102,"Senior Data Scientist, Analytics",Discord,"Сан-Франциско, CA",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,1,0,1,0,0
+103,data scientist sr-digital customer analytics,Starbucks,"Сиэтл, WA",2 недели назад,Работа в офисе,junior,data scientist,USA,1,1,1,1,0,0
+104,Data Scientist / Developer,Raytheon Intelligence & Space,"Херндон, VA",1 неделю назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,1,1
+105,Lead Data Scientist,PayPal,"Сан-Хосе, CA",4 дня назад,Работа в офисе,team lead,data scientist,USA,1,0,1,1,0,0
+106,Marketing Data Scientist (consumer insights contractor),Harnham,"Лос-Анджелес, CA",3 дня назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+107,"Data Scientist, Software Developer",KSA Integration,Соединенные Штаты Америки,2 недели назад,Удаленная работа,junior,data scientist,USA,1,0,0,0,0,0
+108,Data Scientist,ExaTech Inc,"Сан-Франциско, CA",5 месяцев назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+109,ML Data Scientist Intern,Bayer,"Chesterfield, MO",2 месяца назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+110,"Data Scientist, Digital Analytics",Waters Corporation,"Милфорд, MA",1 месяц назад,Работа в офисе,senior,data scientist,USA,1,0,0,0,0,0
+111,Data Scientist - Data Analytics,Professional Diversity Network,"Даллас, TX",3 дня назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+112,Data scientist,ClifyX,"Санта-Клара, CA",2 месяца назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+113,"Data Scientist, Finance",Gametime,Соединенные Штаты Америки,1 месяц назад,Удаленная работа,junior,data scientist,USA,1,0,1,1,0,0
+114,Data Scientist Strategic Analytics,Ulta Beauty,"Bolingbrook, IL",3 недели назад,Удаленная работа,middle,data scientist,USA,1,1,1,1,1,0
+115,Data Scientist - Risk,LSQ,"Орландо, FL",3 месяца назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+116,Data Scientist - Data Analytics,Costco IT,"Сиэтл, WA",2 месяца назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+117,Data Scientist - Credit Risk,Pipe,"Нью-Йорк, NY",4 недели назад,Удаленная работа,junior,data scientist,USA,1,0,1,1,0,0
+118,Data Scientist - Clearance Required,LMI,"Tysons Corner, VA",1 неделю назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,1
+119,Data Scientist,tms,Агломерация Чикаго,1 неделю назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+120,Business Intelligence Consultant,"Strategis Consulting, LLC","Шарлотт, NC",1 неделю назад,Гибридный формат работы,middle,unknown,USA,1,0,0,0,0,0
+121,Enterprise Data Analyst Junior,Generis Tek Inc,"Денвер, CO",2 дня назад,Работа в офисе,junior,data analyst,USA,1,0,0,0,0,0
+122,Advanced Analytics Associate Consultant – Healthcare Sector,L.E.K. Consulting,"Бостон, MA",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+123,Data Engineer,Spearmint Energy,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,0,0,0
+124,Trading/Quantitative Data Scientist,Dice,"Гринуич, CT",4 дня назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+125,Energy Solutions - Energy Data Analyst,NextEra Mobility (formerly eIQ Mobility),"Сан-Франциско, CA",3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+126,2023 Summer Intern: Tax Billing and Data Analysis,Spectrum,"Шарлотт, NC",2 дня назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,0
+127,Analytics Engineer,Blue Rabbit Veterinary,"Агломерация Портленда, Мэн",5 дней назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+128,Talent Acquisition Data Analyst (Virtual),Springboard Research,"Виргиния, Соединенные Штаты Америки",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+129,Staff Data Engineer,Sunrun,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,0,0,0
+130,Data Scientist/ML Engineer,Diverse Lynx,"Атланта, GA",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+131,Onboarding Data Analyst,Stackline,"Сиэтл, WA",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+132,"Analyst, Research (Consumer Insights)",JOANN Stores,"Кливленд, OH",5 дней назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+133,Statistical/Quantitative Modeling Data Analyst,ZEISS Group,"Дублин, CA",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+134,Digital Analytics Consultant,Synergy Interactive,"Ньюарк, NJ",1 день назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+135,Data Analyst (Mentor role - Remote),OpenClassrooms,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+136,Data Scientist - Measurement,Kavaliro,"Орландо, FL",6 дней назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+137,Data Science Intern,Enveda Biosciences,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data scientist,USA,1,0,0,0,0,0
+138,Data Research Analyst,University of Kentucky,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+139,"Data Analyst - Denver, CO",Wakely Consulting Group,"Денвер, CO",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+140,Junior Data Scientist/Analyst/Engineer/Coder/Programmer/Developer,SynergisticIT,"Фримонт, CA",2 дня назад,Удаленная работа,junior,data engineer,USA,1,0,0,0,0,0
+141,Jr. Data Analyst,Aquent,"Торранс, CA",2 дня назад,Гибридный формат работы,junior,data analyst,USA,1,0,0,0,0,0
+142,Data Scientist / Data Analyst with Hadoop / Spark skills,Diverse Lynx,"Саннивейл, CA",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+143,Insights Analyst,Avison Young,"Хьюстон, TX",5 дней назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+144,Junior Business Data Analyst,Matlen Silver,"Норфолк, VA",2 дня назад,Гибридный формат работы,junior,data analyst,USA,1,0,0,0,0,0
+145,Senior Data Scientist - Risk,Binance.US,"Калифорния, Соединенные Штаты Америки",1 месяц назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+146,Statistician (Data Scientist),USAJOBS,"Suitland, MD",23 часа назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+147,"Data Scientist, Credit Risk",PaymentGenes,Соединенные Штаты Америки,2 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+148,"Data Scientist, Data Analytics",Cardinal Health,"Кливленд, OH",2 дня назад,Работа в офисе,middle,data scientist,USA,1,0,0,1,0,0
+149,"Senior Data Scientist, Customer Insights",Live Oak Bank,Соединенные Штаты Америки,9 часов назад,Удаленная работа,junior,data scientist,USA,1,0,1,1,0,0
+150,Data Scientist/Data Engineer,The Mom Project,"Vienna, VA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+151,Senior Data Analyst (Data Scientist),JobsInLogistics.com,"Рединг, PA",6 часов назад,Работа в офисе,senior,data scientist,USA,1,0,0,0,0,0
+152,Data Scientist - Remote / Telecommute,Cynet Systems,"Сан-Франциско, CA",4 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+153,Data Scientist I,Knowesis Inc.,"Joint Base Lewis-McChord, WA",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+154,Data Scientist/Data Engineer,The Mom Project,"Маклин, VA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+155,Data Scientist/Data Engineer,The Mom Project,"Маклин, VA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+156,"Data Scientist II, Analytics",Egencia,Ютика – Ром,3 месяца назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+157,Data Analytics Data Scientist,"InterSources Inc : SBA Certified, Minority & Women-Owned Certified Enterprise.","Сан-Хосе, CA",2 недели назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+158,Data Scientist - Health Economics (Hybrid),CareFirst BlueCross BlueShield,"Балтимор, MD",8 часов назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+159,Data Scientist - Data Analytics,Professional Diversity Network,"Иссакуа, WA",3 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+160,Data Scientist Analyst,TechFetch.com - On Demand Tech Workforce hiring platform,"Бостон, MA",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+161,Data Scientist - Data Analyst,Atmos Energy,"Orleans, NY",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+162,"Data Scientist, Data Analytics - Nationwide",Cardinal Health,"Иллинойс, Соединенные Штаты Америки",2 дня назад,Удаленная работа,middle,data scientist,USA,1,0,0,1,0,0
+163,Data Scientists and Data Engineers,"***Hedge Funds, Prop Shops, Crypto, Fintech***","Нью-Йорк, Соединенные Штаты Америки",2 дня назад,Работа в офисе,junior,data engineer,USA,1,0,1,0,0,0
+164,Forecasting Data Scientist,Geli,"Калифорния, Соединенные Штаты Америки",3 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,0,0,0
+165,Analyst - Junior Data Scientist,YES! Communities,Агломерация Денвера,1 неделю назад,Работа в офисе,junior,data scientist,USA,1,1,1,1,0,0
+166,Criminal Intelligence Analyst,"Syntelligent Analytic Solutions, LLC","Вашингтон, DC",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+167,"Intern, Commodities Data Scientist",Balyasny Asset Management L.P.,"Нью-Йорк, NY",4 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+168,2023 Summer Intern: Tax Billing and Data Analysis,Spectrum,"Шарлотт, NC",2 дня назад,Работа в офисе,junior,unknown,USA,1,0,0,1,0,0
+169,Data Science Intern,Enveda Biosciences,Соединенные Штаты Америки,4 дня назад,Удаленная работа,junior,data scientist,USA,1,1,1,0,0,0
+170,Data Analyst- Onsite,Pegasus Knowledge Solutions,"Расин, WI",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+171,Senior Biostatistician (Remote),ICON Government and Public Health Solutions,Соединенные Штаты Америки,2 дня назад,Удаленная работа,junior,unknown,USA,1,0,0,0,0,0
+172,Research and Data Analyst,Virginia Economic Development Partnership,"Ричмонд, VA",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+173,Snowflake Data Engineer @ Denver CO (Onsite),Dice,"Денвер, CO",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+174,Data Scientist/Analyst with Security Clearance,ClearanceJobs,"Арлингтон, VA",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+175,Data Analyst,Rutgers University–New Brunswick,"Нью-Брунсвик, NJ",2 дня назад,Гибридный формат работы,senior,data analyst,USA,1,0,1,1,0,0
+176,"Data Analyst, Engagement (Google Analytics)",Harvard University,"Кембридж, MA",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+177,"Analyst, Analytics",Regency Centers,"Джексонвилл, FL",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+178,Remote - Data Team Analyst I,AAA-The Auto Club Group,"Лансинг, MI",3 дня назад,Удаленная работа,senior,data analyst,USA,1,0,0,1,0,0
+179,Portfolio Data Analyst,Mosaic,"Хьюстон, TX",4 дня назад,Работа в офисе,middle,data analyst,USA,1,1,0,0,0,0
+180,Data Scientist/ Data Analyst,Diverse Lynx,"Остин, TX",3 недели назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+181,Data Collection Researcher,Apex Systems,"Сиэтл, WA",5 дней назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,0
+182,Data Support Analyst,Balyasny Asset Management L.P.,"Майами, FL",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+183,Data Scientist / Data Analyst,Diverse Lynx,"Остин, TX",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+184,Data Engineer,Hazel Health,Соединенные Штаты Америки,1 день назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+185,Statistical/Quantitative Modeling Data Analyst,ZEISS Group,"Дублин, CA",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+186,"Developer Technology Intern, Data Analytics",NVIDIA,"Санта-Клара, CA",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,1,0,0,0
+187,Microbiome Analyst,"Native Microbials, Inc.","Сан-Диего, CA",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,0,0,0
+188,"Data Scientist, Senior with Security Clearance",ClearanceJobs,"Шарлотсвилл, VA",1 месяц назад,Работа в офисе,senior,data scientist,USA,1,0,1,0,0,0
+189,Jr. Data Analyst,Aquent,"Торранс, CA",2 дня назад,Гибридный формат работы,junior,data analyst,USA,1,1,0,0,0,0
+190,Junior Data Scientist/Analyst/Engineer/Coder/Programmer/Developer,SynergisticIT,"Фримонт, CA",2 дня назад,Удаленная работа,junior,data engineer,USA,1,0,1,0,0,1
+191,Data/Business Analyst,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,1
+192,Lead Data Analyst,"Williams-Sonoma, Inc.","Сан-Хосе, CA",1 день назад,Гибридный формат работы,team lead,data analyst,USA,1,0,1,0,0,0
+193,Data Engineer,BlastPoint,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+194,Business Intelligence Analyst,"KD Nutra®, a KD Pharma Group Company","Майами, FL",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+195,Data Scientist/Data Engineer,The Mom Project,"Vienna, VA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+196,"SQL, VBA, PowerBI Data Analyst",U.S. Bank,"Шарлотт, NC",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+197,Data Analyst - Consumer Care,"Jockey International, Inc.","Кеноша, WI",5 дней назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+198,"Data Analyst, Live Streaming Infrastructure",TikTok,"Маунтин-Вью, CA",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+199,"Business Intelligence Analyst, Marketing",National Funding,"Сан-Диего, CA",5 дней назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+200,Data Engineer,Simon-Kucher & Partners,Агломерация Бостона,2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+201,Data Scientist Sr Associate,JPMorgan Chase & Co.,"Плейно, TX",3 дня назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+202,Business Intelligence,Eclipse Advantage,"Флорида, Соединенные Штаты Америки",4 дня назад,Удаленная работа,middle,unknown,USA,1,0,0,1,0,0
+203,Data Governance Analyst I,"Burlington Stores, Inc.","Эджуотер Парк Тауншип, NJ",2 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+204,Junior Data Engineer,Cortland,"Атланта, GA",5 дней назад,Работа в офисе,junior,data engineer,USA,1,0,1,1,0,0
+205,Jr. to Mid E-commerce Data Analyst,Visionaire Partners,Агломерация Атланты,4 дня назад,Удаленная работа,junior,data analyst,USA,1,0,0,0,0,0
+206,"Machine Learning Engineer – Data Infrastructure, Autopilot AI",Tesla,"Пало-Алто, CA",2 месяца назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+207,Junior Data Engineer,Spartan Technologies,"Атланта, GA",4 дня назад,Гибридный формат работы,junior,data engineer,USA,1,0,1,1,0,0
+208,Data Scientist - Data Management and Epidemiology with Security Clearance,ClearanceJobs,"Атланта, GA",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+209,Supply Chain Data Analyst,HTC Global Services,"Оберн-Хилс, MI",1 день назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+210,Client Engagement Data & Insights Analyst,Lincoln Financial Group,"Radnor, PA",5 дней назад,Удаленная работа,senior,data analyst,USA,1,0,1,1,0,0
+211,"Data Engineer @ Irving, TX /Jacksonville, FL - Hybrid Day one Onsite 3 days in a week Must, 10 years exp must",Dice,"Техас Сити, TX",2 дня назад,Работа в офисе,junior,data engineer,USA,1,0,0,0,0,0
+212,JR Data Engineer,"Yoh, A Day & Zimmermann Company","Дарем, NC",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+213,Data Engineer,Eppo,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+214,Data Security Engineer,TYT,Агломерация Лос-Анджелеса,1 день назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+215,Data Scientist/ Data Analyst (ANSI SQL ),Diverse Lynx,"Эль-Пасо, TX",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,1
+216,Associate Data Analyst,Brooksource,"Индианаполис, IN",4 дня назад,Работа в офисе,senior,data analyst,USA,1,0,1,1,0,0
+217,Data Engineer,MotionPoint,"Coconut Creek, FL",3 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+218,"Data Scientist, Analytics",Overstock,"Юта, Соединенные Штаты Америки",2 недели назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+219,Data Engineer,National Funding,"Калифорния, Соединенные Штаты Америки",5 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+220,Principal Data Scientist,T-Mobile,"Атланта, GA",1 неделю назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+221,Data scientist,Central Business Solutions Inc.,"Колумбус, IN",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+222,Data Scientist Senior Associate - Card Competitive Intelligence,JPMorgan Chase & Co.,"Уилмингтон, DE",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+223,Senior Data Scientist I,Novo Nordisk,"Лексингтон, MA",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+224,Data Engineer,Tata Consultancy Services,"Fort Mill, SC",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+225,Aeronautical Data Analyst 2,Garmin,"Сент-Луис, MO",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+226,Senior Risk Data Scientist,BILL,"Сан-Хосе, CA",2 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+227,Operations Data Engineer,Vizgen,"Кембридж, MA",4 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,1,0,0
+228,Marketing Data Analyst,Integrated Supply Network (ISN),"Лейкленд, FL",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+229,Senior/Principal Data Scientist,Alldus,"Пало-Алто, CA",2 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,0,0,0
+230,"Data Scientist Intern, Analytics",Roku Inc.,"Сан-Хосе, CA",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+231,Data Scientist / Software Data Engineer,Peraton,"Колумбия, MD",2 недели назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,0,0,0
+232,AI/ML Health Data Scientist- Consultant,Guidehouse,"Атланта, GA",4 дня назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+233,"Data Scientist, Data Analytics",Cardinal Health,"Цинциннати, OH",3 дня назад,Работа в офисе,middle,data scientist,USA,1,0,0,1,0,0
+234,Data Scientist with Polygraph,Deloitte,"Арлингтон, Виргиния, Соединенные Штаты Америки",3 часа назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+235,Data Scientist/Data Engineer,The Mom Project,"Бетесда, MD",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+236,Data Scientist / Machine Learning Engineer - New Grad,ZipRecruiter,"Санта-Моника, CA",2 недели назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+237,Customer Analytics Data Scientist,Glanbia,"Орора, IL",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,1
+238,AML Data Analyst,Partnership Employment,Агломерация Нью-Йорка,2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+239,Lead Data Scientist - Condition Monitoring Analytics,Caterpillar Inc.,"Чикаго, IL",4 дня назад,Гибридный формат работы,team lead,data scientist,USA,1,0,1,0,0,0
+240,RESEARCH DATA ANALYST I,California Department of Social Services,"Сакраменто, CA",4 дня назад,Работа в офисе,junior,unknown,USA,1,0,0,0,0,0
+241,"Customer Engineer, Data Analytics, Retail, Google Cloud",Google,"Сиэтл, WA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+242,Business Intelligence Consultant,ACRE Operating Group,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,unknown,USA,1,0,0,1,0,0
+243,Data Engineer /Analyst,Surge Technology Solutions Inc,"Пеория, IL",1 день назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+244,"Senior Data Scientist - Inference, People Analytics",Airbnb,Соединенные Штаты Америки,2 недели назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+245,Data Scientist Lead - Customer Segmentation Analytics,JPMorgan Chase & Co.,"Нью-Йорк, NY",1 неделю назад,Гибридный формат работы,team lead,data scientist,USA,1,0,0,0,0,0
+246,Business Data Analyst,ZF Group,"Лафайет, IN",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+247,Data Scientist - Risk,Earnin,Соединенные Штаты Америки,2 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+248,Sr Data Scientist,Diverse Lynx,"Сиэтл, WA",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+249,Principal Data Scientist,American College of Cardiology,"Вашингтон, DC",1 неделю назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+250,GCP Data Scientist / ML Engineer,Diverse Lynx,"Raritan, NJ",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+251,Senior Data Scientist,Recruiting Social,"Лас-Вегас, NV",4 недели назад,Гибридный формат работы,senior,data scientist,USA,1,0,1,1,0,0
+252,Data Scientists Analysts,Ciber Global,"Дирборн, MI",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+253,Senior Data Scientist MACS007 with Security Clearance,ClearanceJobs,"Тампа, Флорида, Соединенные Штаты Америки",1 месяц назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,1
+254,Data Engineer (Hybrid),Irvine Technology Corporation,"Даллас, TX",1 день назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+255,Data Science Analyst.,Dice,"Фримонт, CA",2 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+256,2023 Intern - Finance Data Scientist,Adobe,"Сан-Франциско, CA",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+257,Clinical Data Analyst - Population Health,RWJBarnabas Health,"Сомерсет, NJ",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+258,"Intern, Data Engineer [Hybrid/ Remote]",EDF Renewables North America,"Сан-Диего, CA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+259,Data Engineer,Zenith,"Нью-Йорк, NY",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+260,"AIML - Machine Learning Engineer, Data & ML Innovation",Apple,"Купертино, CA",2 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+261,Jr Data Analyst,Brooksource,Соединенные Штаты Америки,4 дня назад,Удаленная работа,junior,data analyst,USA,1,0,1,1,0,0
+262,Analyst - Junior Data Scientist,YES! Communities,"Гринвуд-Вилледж, CO",1 неделю назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,0,0
+263,Staff Data Scientist - Machine Learning Engineer,Walmart,"Даллас, TX",1 неделю назад,Работа в офисе,junior,data engineer,USA,1,0,1,1,0,0
+264,Intel Data Engineer (TS//SCI),IBM,"Рестон, VA",2 дня назад,Работа в офисе,senior,data engineer,USA,1,0,1,1,0,1
+265,"Data Scientist Intern, Analytics",Roku Inc.,"Нью-Йорк, NY",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+266,Junior Data Analyst (Secret) (2095),SMX,"Patuxent River, MD",5 дней назад,Гибридный формат работы,junior,data analyst,USA,1,0,1,0,0,0
+267,Statistician (Data Scientist),Polaris Inc.,"Spirit Lake, IA",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+268,Data Analyst,"SilverSearch, Inc.","Норфолк, VA",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+269,"Machine Learning Engineer, University Graduate (TikTok-Data)- 2023 Start (BS/MS)",TikTok,"Маунтин-Вью, CA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+270,Procurement and Planning Data Analyst,ABB,"Кэри, NC",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+271,Senior Data Scientist - Analytics & Research with Security Clearance,ClearanceJobs,"Маклин, VA",2 месяца назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,1
+272,Data Scientist - Machine Learning Engineer,Cigna,"Блумингтон, MN",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+273,Data Scientists Analysts,FastTek Global,"Дирборн, MI",4 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+274,Data Scientist-Engineer/Architect,W3Global,"Денвер, CO",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+275,Data Scientists Modeling,Generis Tek Inc,"Дирборн, MI",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+276,"Data Scientist at St. Louis, MO / San Francisco, CA / Seattle, WA / Chicago, IL",Infotree Global Solutions,"Сан-Франциско, CA",1 месяц назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+277,Data Engineer,Rocket Travel (NASDAQ:BKNG),"Чикаго, IL",1 день назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+278,Data Analyst,Affirma,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,1,0,0,0
+279,Jr Data Analyst,Modis,"Лилу, IL",3 дня назад,Работа в офисе,junior,data analyst,USA,1,0,0,0,0,0
+280,Data & Integrations Engineer,Cisco,"Роли, NC",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,0
+281,EMPI Data Analyst,OhioHealth,"Колумбус, OH",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+282,Sr. Data Scientist with Security Clearance,ClearanceJobs,"Норфолк, VA",1 месяц назад,Гибридный формат работы,senior,data scientist,USA,1,0,0,0,0,0
+283,Data Engineer,"Client Resources, Inc.",Агломерация Омахи,1 день назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+284,Data Scientists Analysts,Generis Tek Inc,"Дирборн, MI",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+285,Data Analyst,State Farm,"Темпе, AZ",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+286,Senior Data Analyst,HCLTech,"Baxter, CA",48 минут назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+287,Data Engineer,"Brownells, Inc.",Соединенные Штаты Америки,1 день назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+288,Data Visualization Engineer,"Keeper Security, Inc.","Чикаго, IL",1 день назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+289,Data Scientists Analysts,Generis Tek Inc,"Мичиган, Соединенные Штаты Америки",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+290,Data Analytics and Business Intelligence | Analyst | Salt Lake City,Goldman Sachs,"Солт-Лейк-Сити, UT",3 дня назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+291,GCP Data Scientist / ML Engineer,TechTammina LLC,"Raritan, NJ",4 месяца назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+292,Data/Business Analyst,System One,"Силвер-Спринг, MD",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,1
+293,Data Engineer - TikTok Account,TikTok,"Маунтин-Вью, CA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+294,Compliance Staff Data Engineer,Visa,"Атланта, GA",3 дня назад,Работа в офисе,senior,data engineer,USA,1,0,1,0,0,1
+295,"Senior Data Scientist, Analytics - Marketing",Discord,"Сан-Франциско, CA",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,0,0,1,0,0
+296,DATA FUSION ENGINEER,Dice,"Маунтин-Вью, CA",1 день назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,1
+297,Business Intelligence and Reporting Analyst,Blue Cross and Blue Shield of Nebraska,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+298,Performance Data Analyst,Confidential,"Калифорния, Соединенные Штаты Америки",1 день назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+299,"Data Scientists, Engineers and Analysts (multiple positions) with Security Clearance",ClearanceJobs,"Бетесда, MD",1 месяц назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,0,0,0
+300,Data Analyst,"OpenArc, LLC.","Питтсбург, PA",2 дня назад,Работа в офисе,senior,data analyst,USA,1,0,0,1,0,0
+301,Data Analytics,The Judge Group,"Акрон, OH",5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+302,Data Scientist,Analytic Solutions Group,"Бетесда, MD",3 месяца назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+303,Real Estate Data Analyst,Washington Prime Group Inc.,"Колумбус, OH",2 недели назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+304,Data Scientist / Machine Learning Engineer - Intern,ZipRecruiter,"Санта-Моника, CA",1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+305,Data Scientist / Software Engineer,Stellent IT,"Vance, AL",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+306,Jr. Data Scientist,Primrose Schools,"Атланта, GA",1 неделю назад,Гибридный формат работы,junior,data scientist,USA,1,0,1,1,0,0
+307,Data scientist lead,Diverse Lynx,"Даллас, TX",1 месяц назад,Работа в офисе,team lead,data scientist,USA,1,0,1,1,0,0
+308,Senior Data Scientist (Remote Position),Entefy,Соединенные Штаты Америки,2 месяца назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+309,Intel Data Engineer - TS/SCI w/ Poly Clearance Required - Onsite,Deloitte,"Арлингтон, Виргиния, Соединенные Штаты Америки",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+310,Data Scientist (Statistician),"RightDirection Technology Solutions, LLC","Хантсвилл, AL",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+311,Data Analyst with MS SQL /SSIS,Experis,"Троя, MI",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+312,Data Analyst,Fresno First Bank,"Фресно, CA",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+313,Cybersecurity Data Scientist Engineer with Security Clearance,ClearanceJobs,"Chantilly, VA",1 месяц назад,Работа в офисе,senior,data engineer,USA,1,0,1,0,1,0
+314,Data Engineer Intern,Randstad USA,"Данверс, MA",5 дней назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+315,Data Engineer,Harnham,"Сан-Франциско, CA",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+316,Data Science Analyst,Diverse Lynx,"Гластонбери, CT",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+317,Data Scientist / Software Developer - Senior with Security Clearance,ClearanceJobs,"Форт Мид, MD",8 месяцев назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,1
+318,Statistician (Data Scientist),U.S. Census Bureau,"Suitland, MD",3 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+319,Data Scientist - Network Analysis and Targeted Manipulation (NATM),TikTok,"Нью-Йорк, NY",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,1
+320,"Sr. Data Scientist, Analytics",Grindr,"Лос-Анджелес, CA",1 неделю назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+321,Data Scientist - Network Analysis and Targeted Manipulation (NATM),TikTok,"Вашингтон, DC",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,1
+322,Data Scientist and Research Analyst (Hybrid Schedule),Howard Hughes Medical Institute,"Chevy Chase, MD",3 дня назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,0,0,0
+323,Data Scientist/Analyst with Security Clearance,ClearanceJobs,"Силвер-Спринг, MD",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,0,1,0,1
+324,Principal Data Scientist,Craft.co,"Остин, TX",2 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,0,0,0
+325,"Sr Data Scientist (Data Science, Data Analytics, predictive analytics, machine learning, multivariate analysis, Python, R, MATLAB, Biotech Industry ) in Waltham, MA - HYBRID",DBA Web Technologies,"Уолтем, MA",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,0,0,0
+326,Lead Data Engineer,NLB Services,Соединенные Штаты Америки,1 день назад,Удаленная работа,team lead,data engineer,USA,1,0,1,0,0,0
+327,Data Scientist - Network Analysis and Targeted Manipulation (NATM),TikTok,"Лос-Анджелес, CA",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,1
+328,Data Engineer,Dice,"Сан-Диего, CA",1 день назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,1
+329,Data Engineer,Data Collaborative for Justice,"Нью-Йорк, NY",1 неделю назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,1
+330,Cloud Data Engineer,The Guitar Center Company,"Westlake Village, CA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,1,1
+331,2023 Summer Intern - Early Clinical Development: Data Analyst,Roche,"South San Francisco, CA",4 дня назад,Работа в офисе,junior,data analyst,USA,1,0,1,1,0,0
+332,Data Scientist USC,Diverse Lynx,"Редмонд, WA",1 месяц назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+333,Data Analyst-Solution Analytics,"Accolade, Inc.","Plymouth Meeting, PA",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+334,Geospatial Data Engineer,BrickRed Systems,"Редмонд, WA",1 день назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+335,RESEARCH DATA ANALYST II,California Department of Education,"Сакраменто, CA",3 дня назад,Гибридный формат работы,middle,unknown,USA,1,0,0,0,0,0
+336,Data Scientist/Engineer (Technology Analyst) - R&S,Federal Reserve Board,"Вашингтон, DC",2 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+337,Data Analyst,PatientFi,"Ирвайн, CA",5 дней назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+338,Data Engineer General,Experis,"Дирборн, MI",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,0,0,0
+339,Data Migration Engineer,"Method360, Inc.","Техас, Соединенные Штаты Америки",3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,0,0,0
+340,Principal Data Scientist,Elevance Health,"Лансинг, MI",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+341,Principal Data Scientist,Elevance Health,"Олбани, NY",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,0,0,0
+342,2023 Intern - Sr. Data Scientist,BILL,"Сан-Хосе, CA",3 недели назад,Работа в офисе,junior,data scientist,USA,1,0,1,1,0,0
+343,Trading/Quantitative Data Scientist,Focus Capital Markets,"Гринуич, CT",4 дня назад,Гибридный формат работы,middle,data scientist,USA,1,0,0,0,0,0
+344,Data Engineer,The Mom Project,"Сиэтл, WA",4 дня назад,Работа в офисе,junior,data engineer,USA,0,0,1,1,0,0
+345,Data Engineer,Dice,Соединенные Штаты Америки,1 день назад,Удаленная работа,senior,data engineer,USA,1,0,1,0,0,1
+346,Senior Statistician/Data Scientist,New Light Technologies,Соединенные Штаты Америки,5 дней назад,Удаленная работа,senior,data scientist,USA,1,0,1,0,0,0
+347,DATA SCIENCE DEVELOPER,Diverse Lynx,"Ирвинг, TX",3 недели назад,Работа в офисе,middle,unknown,USA,1,0,1,1,0,0
+348,Sr. Data Governance Analyst,T. Rowe Price,"Owings Mills, MD",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+349,Data Analyst,CPS,"Дублин, OH",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+350,Product Data Engineer,ABB,"Wauwatosa, WI",16 часов назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,0,0,0
+351,Biomedical Data Engineer/Scientist,Alaka`ina Foundation Family of Companies,"Patterson, OH",7 часов назад,Работа в офисе,junior,data engineer,USA,1,0,1,1,0,0
+352,Staff Data Engineer,Harnham,"Сан-Франциско, CA",1 неделю назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+353,Data Analyst,LHH,"Сан-Диего, CA",22 часа назад,Удаленная работа,senior,data analyst,USA,1,0,0,1,0,0
+354,Data Analyst,"RSCC Wire & Cable, part of Marmon Electrical","East Granby, CT",1 день назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+355,Data Scientist / Analytics Engineer,Alston & Bird,"Нью-Йорк, Соединенные Штаты Америки",1 неделю назад,Работа в офисе,senior,data engineer,USA,1,0,1,1,0,0
+356,Data Scientist / Machine Learning Engineer,Epsilon,"Нью-Йорк, NY",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+357,Data Analyst,Jobot,"Санта-Моника, CA",16 часов назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+358,"Lead Data Scientist/ Lead Machine Learning Engineer (Bangkok based, relocation provided)",Agoda,"Нью-Йорк, NY",2 дня назад,Гибридный формат работы,team lead,data engineer,USA,1,0,1,1,0,0
+359,Senior Data Scientist,Tecolote Research,"Fort George G. Meade, MD",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+360,Cybersecurity Data Scientist Engineer,"Systems Planning and Analysis, Inc.","Chantilly, VA",10 часов назад,Работа в офисе,senior,data engineer,USA,1,0,1,0,1,0
+361,Data Scientist / Data Engineer (Cleared),Nyla Technology Solutions,Соединенные Штаты Америки,1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+362,Data Scientist - Software Engineer,ChampionX,"Те-Вудлендс, TX",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+363,Biomedical Data Engineer/Scientist with Security Clearance,ClearanceJobs,"Patterson, OH",2 дня назад,Гибридный формат работы,junior,data engineer,USA,1,0,1,1,0,0
+364,"Senior Data Scientist, Epidemiology",Alldus,Соединенные Штаты Америки,4 дня назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+365,Data - Data Engineer Chicago Remote,Addison Group,"Чикаго, IL",2 дня назад,Удаленная работа,junior,data engineer,USA,1,0,1,1,0,0
+366,Data Analyst-Senior,UT Health San Antonio,"Сан-Антонио, TX",2 дня назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+367,Compensation Data Analyst,Ascendo Resources,"Майами, FL",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+368,Data Engineer,Dice,Соединенные Штаты Америки,1 день назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,1,0
+369,Data & Applied Scientist,Microsoft,"Редмонд, WA",2 недели назад,Удаленная работа,middle,data scientist,USA,1,0,1,1,0,0
+370,Data Analyst,Experis,"Рестон, VA",4 дня назад,Работа в офисе,senior,data analyst,USA,1,0,0,1,0,1
+371,Data Analyst,TikTok,"Маунтин-Вью, CA",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+372,"Senior Data Scientist, Product Analytics",Spring Health,Соединенные Штаты Америки,3 дня назад,Удаленная работа,senior,data scientist,USA,1,0,1,1,0,0
+373,Online Data Analyst | Work From Home,TELUS International AI Data Solutions,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+374,Senior Marketing Data Analyst,Synergis,"Маунтин-Вью, CA",1 день назад,Работа в офисе,senior,data analyst,USA,1,0,0,1,0,0
+375,Data Engineer- Data & Analytics,Structure Tone,"Нью-Йорк, Соединенные Штаты Америки",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+376,Data Scientist / Analytics Engineer,Alston & Bird,"Атланта, GA",1 неделю назад,Работа в офисе,senior,data engineer,USA,1,0,1,1,0,0
+377,"Data Engineer, People",Stripe,"Сиэтл, WA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+378,Data Analyst,Optomi,"Северная Каролина, Соединенные Штаты Америки",1 день назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+379,Marketing Data Analyst,Ultimate Staffing,"Тампа, FL",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+380,Data Center Analyst,Unisys,"Норуич, CT",5 дней назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+381,CCB_Data and Analytics- Data Scientist Analyst Expert,JPMorgan Chase & Co.,"Уилмингтон, DE",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+382,Product Data Analyst,Dorman Products,"Гаррисберг, PA",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+383,Data Scientist / Software Engineer,Arcfield,"Кинг-оф-Праша, PA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+384,Finance Data Governance Analyst (SOX/Compliance),OpTech,"Колумбус, OH",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+385,Junior data analyst,Brooksource,Агломерация Филадельфии,1 неделю назад,Гибридный формат работы,junior,data analyst,USA,1,0,0,1,0,0
+386,Data Analyst Junior,SA Technologies Inc.,"Денвер, CO",1 неделю назад,Работа в офисе,junior,data analyst,USA,1,0,0,0,0,0
+387,Data Analyst,Talint,"Вашингтон, округ Колумбия – Балтимор",4 дня назад,Удаленная работа,senior,data analyst,USA,1,0,0,0,0,0
+388,Data Scientist / Analytics Engineer,Alston & Bird,"Лос-Анджелес, CA",1 неделю назад,Работа в офисе,senior,data engineer,USA,1,0,1,1,0,0
+389,Business Intelligence Analyst,174 Power Global,"Хьюстон, TX",1 неделю назад,Гибридный формат работы,senior,data analyst,USA,1,0,1,1,0,0
+390,HR Data Analyst,Metro One LPSG,"Плейно, TX",5 дней назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+391,Data Conversion Analyst,GLDS,"Карлсбад, CA",2 недели назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+392,Analytics Engineer,"Jane Technologies, Inc.",Соединенные Штаты Америки,1 день назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+393,"Machine Learning Engineer, University Graduate (TikTok Data)- 2023 Start (BS/MS)",TikTok,"Маунтин-Вью, CA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+394,Data Analyst,,"Импириал, CA",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+395,Data Engineer - Business Intelligence,Block,"Сан-Франциско, CA",1 день назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+396,Data Modeling Analyst,Addison Group,"Draper, UT",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+397,(USA) Senior Data Scientist - Conversational AI,Walmart,"Саннивейл, CA",2 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+398,"Data Engineer, People",Stripe,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+399,Data/Business Analyst,"ALTA IT Services, LLC","Мэриленд, Соединенные Штаты Америки",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,1
+400,Azure Data Engineer,Dice,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+401,Data Engineer,SoftStandard Solutions,"Техас, Соединенные Штаты Америки",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+402,Data Analyst,"Vector Consulting, Inc","Денвер, CO",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+403,"Lead Data Scientist, Predictive Analytics",Spring Health,Соединенные Штаты Америки,2 дня назад,Удаленная работа,team lead,data scientist,USA,1,0,1,1,0,0
+404,Jr. Data Analyst,Brooksource,"Филадельфия, PA",1 неделю назад,Гибридный формат работы,junior,data analyst,USA,1,0,0,1,0,0
+405,Data Analyst,BayOne Solutions,"Сан-Хосе, CA",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+406,Data Engineer,Winnebago Industries,"Иден-Прери, MN",5 дней назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,1,0,0
+407,Marketing Insights (Data Analytics),Linqto,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+408,"Senior Data Scientist, UCP - Research, Evaluation and Data Analytics (REDA)",Vera Institute of Justice,"Бруклин, NY",1 месяц назад,Удаленная работа,senior,data scientist,USA,1,0,1,0,0,1
+409,"Analyst II, Data Science",Liberty Mutual Insurance,"Бостон, MA",1 день назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+410,Regulatory Data Analyst,Federal Reserve Bank of New York,"Нью-Йорк, NY",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+411,Data Engineer,CareerWellness,"Сан-Франциско, CA",5 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+412,Associate Cyber Intelligence Analyst,Rapid7,"Плейно, TX",1 день назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+413,Jr. Cyber Intelligence Analyst,Guidehouse,"Вашингтон, DC",4 дня назад,Работа в офисе,junior,data analyst,USA,1,0,0,0,0,0
+414,Data Scientist / Validation Analyst # 743265,"Systemart, LLC","Плейно, TX",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+415,Data Engineer,"Kwik Trip, Inc.","Ла-Кросс, WI",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+416,Staff Sales Data Analyst (Remote),Intuit,"Маунтин-Вью, CA",1 неделю назад,Удаленная работа,senior,data analyst,USA,1,0,1,1,0,0
+417,Data and Insight Analyst,Navigate360,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+418,"Data Analyst, Specialist - I",Infosys,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,1,0,0,0
+419,Data Analyst,Apex Systems,"Белвью, WA",1 день назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+420,"Staff Scientist, Statistics and Data Analytics",Arconic,"New Kensington, PA",2 месяца назад,Гибридный формат работы,senior,data scientist,USA,1,0,1,1,0,0
+421,Application and Data Integration Engineer - Remote - Nationwide,Vituity,"Сакраменто, CA",1 день назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+422,Data Scientist - Microbiome Analysis,Mount Sinai Morningside,"Нью-Йорк, NY",1 месяц назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+423,Accounting Data Analyst,Confidentail,"Глендейл, CA",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,1,0,0,0,0
+424,Enterprise Data Analyst,Swift Strategic Solutions Inc,"Денвер, CO",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+425,RedCAP Data Analyst,Insight Global,"Питтсбург, PA",2 недели назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+426,Data Engineer,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,junior,data engineer,USA,1,0,0,1,1,1
+427,"Cleared Data Scientist Analyst, Senior Consultant",Guidehouse,"Маклин, VA",4 дня назад,Работа в офисе,junior,data scientist,USA,1,0,0,1,0,0
+428,Data Analyst,Patriot Talent Solutions,"Ноксвилл, TN",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+429,Azure Data Engineer,Gravity IT Resources,Соединенные Штаты Америки,3 дня назад,Удаленная работа,senior,data engineer,USA,1,0,0,1,0,0
+430,Data Engineer,NLB Services,"Хьюстон, TX",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+431,Data Analytics Intern,KLA,"Милпитас, CA",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+432,Data Scientist- Sr. Analyst,University of Chicago,"Чикаго, IL",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+433,"Analyst Data – New York, NY - Hybrid-Remote – Day",NewYork-Presbyterian Hospital,"Нью-Йорк, NY",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+434,Data Analyst (U.S. Border Patrol),LMI,"Вашингтон, DC",10 часов назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+435,Senior Data Scientist / HEOR & PBM Analytics,Elevance Health,"Цинциннати, OH",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,0,1,0,0
+436,Digital Marketing Data Analyst,GSA,Соединенные Штаты Америки,1 день назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+437,Data Engineer/Architect,Happiest Minds Technologies,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,1,1
+438,"Data Engineer, SPG Ops Analytics",Apple,"Финикс, AZ",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+439,Bayesian Statistician (Data Scientist),"ICR, Inc.","Орора, CO",3 недели назад,Гибридный формат работы,middle,data scientist,USA,1,0,1,1,0,0
+440,Data Engineer/Data Scientist,Diverse Lynx,"Калифорния, Соединенные Штаты Америки",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+441,"Senior Analyst, Data Scientist (Remote)",Epsilon,"Ирвинг, TX",2 недели назад,Удаленная работа,senior,data scientist,USA,1,0,1,0,0,0
+442,"Business Intelligence Analyst, Operations",PenFed Credit Union,"Маклин, VA",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+443,Data Analyst / Business Analyst,Dice,"Де-Мойн, IA",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+444,Data Visualization Scientist,Optimal Staffing,"Дирборн, MI",2 недели назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+445,Data Engineer,BigLynx Inc,"Сиэтл, WA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,1
+446,Data Analyst,"Logic20/20, Inc.","Канзас-Сити, MO",1 день назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+447,Data Engineer,SoftStandard Solutions,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,1,0
+448,Data Analyst - Remote,,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+449,Data Science Engineer,Motion Recruitment,"Нью-Йорк, NY",17 часов назад,Работа в офисе,senior,data engineer,USA,1,0,1,0,0,0
+450,Data & Analytics Quantitative Intern,StepStone Group,"Ла-Холья, Калифорния, Соединенные Штаты Америки",6 часов назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+451,Statistical R&D Analyst,Progressive Insurance,"Mayfield, OH",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+452,"Wealth Management, Client Data Analyst",JPMorgan Chase & Co.,"Колумбус, OH",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+453,Data Science Engineer,Wheels Up,"Сиэтл, WA",2 дня назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,1
+454,Operations Research Analyst and Data Scientist,Booz Allen Hamilton,"Stafford, VA",2 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,1,0
+455,Data Engineer,SunTechPros Inc.,"Виргиния, Соединенные Штаты Америки",3 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,0,0,0
+456,Data Analysis Specialist - Behavioral Health 135,Telecare Corporation,"Модесто, CA",1 день назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,0
+457,Master Data Analyst,Treasury Wine Estates,"Напа, CA",2 недели назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+458,Data Engineer / Hadoop Spark Developer,Diverse Lynx,"Филадельфия, PA",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+459,Data Engineer,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,junior,data engineer,USA,1,0,1,1,1,1
+460,Data Engineer,R2 Global,Агломерация Нью-Йорка,3 дня назад,Работа в офисе,senior,data engineer,USA,1,0,1,1,0,0
+461,Data Engineer/ML,Diverse Lynx,"Сиэтл, WA",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+462,"Lead, Data Engineer",Macy's,Агломерация Атланты,2 дня назад,Гибридный формат работы,team lead,data engineer,USA,1,0,1,1,0,0
+463,Data Analyst,Signorelli Company,"Те-Вудлендс, TX",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+464,Research Analyst,North Island Ventures,Агломерация Нью-Йорка,2 недели назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+465,"Adobe, 2023 Intern - Data Science Engineer - Application via WayUp",WayUp,"Сан-Хосе, CA",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+466,Associate Data Engineer,Fidelity Investments,"Вестлейк, TX",1 неделю назад,Гибридный формат работы,senior,data engineer,USA,1,0,1,1,0,1
+467,Data Engineer: Remote position – Up to $190k Plus 15% bonus!,Data Revolution,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,0,0,0
+468,Data Analytics and Reporting,Covenant Technologies,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+469,Data Scientist/Data Engineer,The Mom Project,"Great Falls, VA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+470,Data Science Analyst,Corning Incorporated,"Шарлотт, NC",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+471,Business Data Analyst,Onyx CenterSource,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+472,Data Science Engineer,Wheels Up,Соединенные Штаты Америки,2 дня назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,1
+473,Wells Analytics Engineer-Permian,ConocoPhillips,"Мидланд, TX",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+474,Data Scientist - Microbiome Analysis,Mount Sinai Health System,"Нью-Йорк, NY",3 месяца назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+475,PhD Senior Data Scientist - Biostatistics,The Johns Hopkins University Applied Physics Laboratory,"Laurel, MD",1 неделю назад,Работа в офисе,senior,data scientist,USA,1,0,1,0,0,0
+476,ML/NLP/Data Engineer,Agent IQ,"Сан-Франциско, CA",4 недели назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+477,Data Engineer,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+478,Data Analyst,Ascendo Resources,"Майами, FL",1 день назад,Гибридный формат работы,senior,data analyst,USA,1,0,0,0,0,0
+479,Data Science Engineer,Diverse Lynx,"Чикаго, IL",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,0
+480,Data Analyst,Progrexion,Агломерация Солт-Лейк-Сити,2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+481,Junior Data Engineer,Insight Global,"Хартфорд, CT",1 неделю назад,Гибридный формат работы,junior,data engineer,USA,1,0,0,1,0,0
+482,Business Data Analyst,Clear Street,"Нью-Йорк, NY",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+483,Data Engineer_Full Time (USA),Publicis Sapient,"Виргиния, Соединенные Штаты Америки",2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+484,Healthcare Data Analyst,Alaka`ina Foundation Family of Companies,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,senior,data analyst,USA,1,0,0,1,0,0
+485,Data Science Engineer,Diverse Lynx,"Addison, TX",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+486,"Data Analyst, Space Operations Data",Virgin Galactic,"Лас-Крусес, NM",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+487,Data Analyst - Energy,Analytic Recruiting Inc.,"Даллас, TX",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+488,"Verizon, Military Fellowship - Data Science Principal Engineer - Application via WayUp",WayUp,"Алфарета, GA",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,0,0,0
+489,Data Engineer,HTC Global Services,"Дарем, NC",1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+490,Data Engineer - Intelligence - TS/SCI w/ Poly Required,Deloitte,"Арлингтон, Виргиния, Соединенные Штаты Америки",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+491,Data Analyst,U.S. Bank,"Миннеаполис, MN",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+492,Products & Solutions - Data Engineer,PwC,"Лос-Анджелес, CA",1 час назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+493,"Cloud Data Engineer, Professional Services, Google Cloud",Google,"Остин, TX",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+494,RESEARCH DATA ANALYST II,CalPERS,"Сакраменто, CA",1 день назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,0
+495,Data Engineer- Azure,Dice,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+496,Data Analyst,Kaufman Rossin,"Майами, FL",2 дня назад,Удаленная работа,junior,data analyst,USA,1,0,1,1,0,0
+497,"Data Scientist / Quantitative Researcher, Systematic Trading",KYYBA Inc,"Чикаго, IL",2 месяца назад,Работа в офисе,middle,data scientist,USA,1,0,0,0,0,0
+498,"Data Scientist (Statistician), Design & Impact",The Jed Foundation (JED),Агломерация Нью-Йорка,5 дней назад,Удаленная работа,middle,data scientist,USA,1,0,0,0,0,0
+499,Business Intelligence Analyst,Kroenke Sports & Entertainment,"Денвер, CO",5 дней назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+500,Data Analyst,Insight Global,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+501,Power BI / Data Scientist II,Caterpillar Inc.,"Пеория, IL",2 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,1
+502,Staff Data Engineer (Remote),Huxley,"Бостон, MA",4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+503,Data Engineer,Oliver Parks,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+504,Data Analyst,American Technology Consulting - ATC,"Миннесота, Соединенные Штаты Америки",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+505,Senior Statistician,Confidential,"Бостон, MA",1 день назад,Работа в офисе,senior,unknown,USA,1,0,0,0,0,0
+506,"AIML — Data Engineer, ML Innovation",Apple,"Купертино, CA",2 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+507,Data Software Engineer - Camera Hardware,Apple,"Сан-Диего, CA",1 день назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+508,R&D Data Analysis Software Engineering Scientist,The University of Texas at Austin,"Остин, TX",2 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+509,Data QA Engineer,HealthVerity,Соединенные Штаты Америки,18 часов назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+510,Data Analyst,Dice,"Хопкинс, MN",2 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+511,Sr Data Analyst  ($open++) - Remote Work,"TWO95 International, Inc","Нью-Йорк, NY",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+512,Data Analyst - Energy,Analytic Recruiting Inc.,"Хьюстон, TX",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+513,Data Engineer,Proliance Consulting,"Сиэтл, WA",3 дня назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+514,Information Protection Data Analyst,BlueRose Technologies,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+515,Data Analyst,Ascendum Solutions,"Цинциннати, OH",3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+516,Procurement Data Analyst,Yale University,"Нью-Хейвен, CT",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+517,Spatial Data Specialist,Smith College,"Нортгемптон, MA",4 дня назад,Работа в офисе,middle,unknown,USA,1,0,1,1,0,1
+518,Data Engineer/ Modeler,Insight,"Финикс, AZ",9 часов назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+519,Data Analyst,American Technology Consulting - ATC,"Нью-Йорк, Соединенные Штаты Америки",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+520,Data Engineer,Delta Air Lines,"Атланта, GA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+521,Data Analyst,Seneca Resources,"Виргиния, Соединенные Штаты Америки",4 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+522,Data Analyst,Insight Global,Соединенные Штаты Америки,1 день назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+523,Data Software Development Engineer,Siemens Digital Industries Software,"Шарлотт, NC",10 часов назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+524,Online Data Analyst | Work From Home,TELUS International AI Data Solutions,"Оклахома, Соединенные Штаты Америки",5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+525,Digital Insights Analyst,Music & Arts,"Фредерик, MD",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+526,Data Engineer,"Yoh, A Day & Zimmermann Company","Roanoke, TX",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+527,AWS Data Services Administration/ SRE Engineer,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,1
+528,Data Analyst,Kaufman Rossin,"Майами, FL",2 дня назад,Работа в офисе,junior,data analyst,USA,1,0,1,1,0,0
+529,Online Data Analyst | Work From Home,TELUS International AI Data Solutions,"Пенсильвания, Соединенные Штаты Америки",5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+530,Python Software Engineer - Security Data Science,Bloomberg,"Нью-Йорк, NY",3 недели назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,1,1
+531,Biosignal Data Analytics Consultant,"Intelliswift Software, Inc.","Саннивейл, CA",1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,0,0,0
+532,Analytics Engineer,Aquent,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+533,Data Engineer,Edward Jones,"Сан-Франциско, CA",4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+534,"Data Analyst, Provider Networks Operations, Remote","Aledade, Inc.","Бетесда, MD",4 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+535,Advanced Analytics Consultant (US),Elevance Health,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+536,Data Engineer 2,Dexcom,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,1,1
+537,Data Scientist Engineer,The Predictive Index,"Уэствуд, MA",2 недели назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+538,Data Analyst,American Technology Consulting - ATC,"Калифорния, Соединенные Штаты Америки",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+539,Advisor Data Analyst,Gainwell Technologies,"Огайо, Соединенные Штаты Америки",1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+540,Data Engineer,1047 Games,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+541,Data Engineer,Perry Homes,"Хьюстон, TX",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+542,Data Engineer,Dice,Соединенные Штаты Америки,3 дня назад,Удаленная работа,junior,data engineer,USA,1,0,1,1,0,0
+543,IT Data Analyst I,ENGIE North America Inc.,Агломерация Детройта,4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+544,Data Analyst,"firstPro, Inc",Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+545,Data Analyst,"HeartLand, LLC",Агломерация Канзас-Сити,1 день назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+546,Data Analyst,AST Defeasance,"Cedarhurst, NY",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+547,Data Engineer REMOTE,"Yoh, A Day & Zimmermann Company","Audubon, PA",1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+548,"COOP, Data Engineer",Abarca Health,Соединенные Штаты Америки,2 недели назад,Удаленная работа,junior,data engineer,USA,1,0,0,0,0,0
+549,Data Engineer,Highline Public Schools,Агломерация Сиэтла,1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+550,Part-Time Student-Software/Data Engineer-Moline IL-Partial Remote,John Deere,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,1
+551,Data Engineer,Maxonic,Область залива Сан-Франциско,1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+552,2023 Summer Intern - Early Clinical Development: Data Analyst,Genentech,"South San Francisco, CA",4 дня назад,Работа в офисе,junior,data analyst,USA,1,0,1,1,0,0
+553,Data Analyst,Numero Data,"Херндон, VA",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+554,"Data Analyst, Junior",Booz Allen Hamilton,"Вашингтон, DC",9 часов назад,Гибридный формат работы,junior,data analyst,USA,1,0,1,0,0,0
+555,2023 Summer Intern: Data & Analytics Analyst,Spectrum,"Сент-Луис, MO",1 неделю назад,Работа в офисе,senior,data analyst,USA,1,0,0,1,0,0
+556,Ground Software and Data Engineer,Outpost Space,"Санта-Моника, CA",20 часов назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+557,Data Scientist/Data Engineer,The Mom Project,"Фолс-Черч, VA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+558,Data Engineer - Azure ADF,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,junior,data engineer,USA,1,0,1,1,0,0
+559,Data Engineer,Agama Solutions Inc,"Florham Park, NJ",3 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,1
+560,Software Engineer - Geospatial Data Engineering,Muon Space,"Маунтин-Вью, CA",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,0,0,0
+561,Data Analyst,Realtor.com,"Остин, TX",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+562,Data Analyst II,Edward Jones,"Сан-Франциско, CA",2 дня назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+563,Data Analyst,Insight Global,"Вашингтон, DC",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+564,Data Engineer,Denali Advanced Integration,"Редмонд, WA",1 неделю назад,Работа в офисе,senior,data engineer,USA,1,0,0,1,1,1
+565,Data Analyst,"Mack & Associates, Ltd.","Чикаго, IL",5 дней назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+566,"Data Analytics, Summer Intern (Hybrid/Remote/Office-based)",Ancestry,"Лихай, UT",1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+567,Data Analyst,Tata Consultancy Services,"Бентонвилл, AR",4 дня назад,Работа в офисе,junior,data analyst,USA,1,0,0,1,0,0
+568,Sr Pricing Data Analyst,ZT Systems,"Секокус, NJ",23 часа назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+569,Python Developer/Data Analyst,Odyssey Systems,"Бетесда, MD",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+570,Data Engineer,Synechron,"Нью-Йорк, NY",1 день назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,0,0,0
+571,Associate Data Engineer,The Kraft Heinz Company,"Чикаго, IL",1 неделю назад,Гибридный формат работы,senior,data engineer,USA,1,0,1,1,0,0
+572,Data Engineer,Q Investments,"Форт-Уэрт, TX",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+573,Retail Data Analyst,Apidel Technologies,"Филадельфия, PA",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+574,Data Engineer,Dice,"Woodlawn, MD",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+575,Data Operations Specialist,Skechers,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,unknown,USA,1,0,0,0,0,1
+576,Data Analyst / Data Scientist,American Bureau of Shipping (ABS),"Арлингтон, VA",1 неделю назад,Работа в офисе,middle,data scientist,USA,1,0,1,0,0,0
+577,Data Analytics Analyst NCG (Hybrid),onsemi,"Саннивейл, CA",1 день назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+578,Data Engineers (US/Remote),Realtime Recruitment,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+579,Data Engineer,"Trepp, Inc.",Метроплекс Даллас/Форт-Уэрт,2 дня назад,Гибридный формат работы,junior,data engineer,USA,1,0,1,1,0,1
+580,Data Engineer,Insight Global,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+581,Data Engineer,CMA CGM,"Северная Каролина, Соединенные Штаты Америки",4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,1,0
+582,Staff Data Engineer (Mailchimp),Intuit,"Бруклин, NY",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,0
+583,Data Analytics Intern,Code and Theory,Соединенные Штаты Америки,3 недели назад,Удаленная работа,senior,data analyst,USA,1,0,1,1,0,1
+584,Data Engineer – Field Reliability,Tesla,"Фримонт, CA",4 месяца назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+585,Data Engineer,Sterling Engineering,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+586,Data Analyst,State Farm,"Блумингтон, IL",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+587,Azure Data Engineer,NLB Services,"Плейно, TX",5 дней назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,0
+588,"Cloud Data Engineer, Professional Services, Google Cloud",Google,"Атланта, GA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+589,Software Engineer - Global Data Platform,Datadog,"Массачусетс, Соединенные Штаты Америки",9 часов назад,Удаленная работа,middle,data engineer,USA,1,0,0,0,0,0
+590,HR Data Analyst Expert,Tandym Group,"Northbrook, IL",10 часов назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+591,Data Engineer,Paladin Consulting,"Ричардсон, TX",1 день назад,Гибридный формат работы,middle,data engineer,USA,1,1,0,0,0,0
+592,AWS Data Services Engineer,Dice,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,1
+593,Data Engineer,Lucas James Talent Partners,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+594,Data Engineers,Diverse Lynx,"Маунтин-Вью, CA",3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+595,DoA Data Analyst,Guidehouse,"Хантсвилл, AL",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+596,Data Analyst,Cirkul,"Уотертаун, MA",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+597,Data Analyst,Insight Global,"Бербанк, CA",2 дня назад,Гибридный формат работы,junior,data analyst,USA,1,0,1,1,0,0
+598,Data Analyst,MissionStaff,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+599,Data Engineer,Apex Systems,"Акрон, OH",2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+600,Reference Data Analyst,Citi,"Getzville, NY",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+601,Data Analyst,State Farm,"Ричардсон, TX",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+602,Data Science Analyst,American Heart Association,"Литл-Рок, AR",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+603,Associate Consultant (Data Analyst),Syniti,"Омаха, NE",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+604,Data Science Analyst,American Heart Association,"Литл-Рок, AR",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+605,Data Integration Developer,The Judge Group,"Чикаго, IL",3 недели назад,Работа в офисе,middle,unknown,USA,1,0,1,1,0,0
+606,Data Integration Developer,The Judge Group,"Чикаго, IL",3 недели назад,Работа в офисе,middle,unknown,USA,1,0,1,1,0,0
+607,Full Stack Engineer - Data Analytics,Costco Wholesale,"Даллас, TX",2 недели назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,1
+608,Data Engineer,Ellucian,"Джорджия, Соединенные Штаты Америки",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+609,"Data Engineer/ Databricks Engineer - Weehawken, NJ - Contract - Day one Onsite",Dice,"Уихокен, NJ",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+610,Data Software Development Engineer,Siemens Digital Industries Software,"Уилсонвилл, OR",1 неделю назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+611,Data Engineer,Children's Health,Метроплекс Даллас/Форт-Уэрт,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+612,Data Analyst,State Farm,"Темпе, AZ",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+613,Data Science Analyst,American Heart Association,"Атланта, GA",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+614,Data Engineer,Ciber Global,"Дирборн, MI",1 день назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+615,Data Science Analyst,Generac Power Systems,"Уокешо, WI",3 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+616,Data Science Analyst,American Heart Association,"Атланта, GA",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+617,Data & Analytics Intern - Summer 2023,WillowTree,"Колумбус, OH",2 недели назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+618,Staff Data Platform Engineer,Crunchbase,"Вайоминг, Соединенные Штаты Америки",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+619,Data Analyst Intern,"New Relic, Inc.","Сан-Франциско, CA",3 дня назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+620,"Data Engineer, Mid",Booz Allen Hamilton,"Арлингтон, VA",1 день назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,1
+621,Data Engineer,InfoVision Inc.,"Ирвинг, TX",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+622,Developer Engineer/ Data Science,Hewlett Packard Enterprise,"Остин, TX",1 месяц назад,Работа в офисе,senior,data engineer,USA,1,0,1,1,0,1
+623,Data Engineer,UST,"Сан-Хосе, CA",4 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,1
+624,"Cloud Data Engineer, Professional Services, Google Cloud",Google,"Чикаго, IL",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+625,Data Architect / Developer,Forrest T. Jones & Company,"Канзас-Сити, MO",4 дня назад,Гибридный формат работы,middle,unknown,USA,1,1,0,1,0,0
+626,Security Data Engineer (Remote),Raytheon Technologies,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+627,Azure Data Engineer,mBridge Solutions Inc,"Хьюстон, TX",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+628,Entry Level Data Governance Engineer,Indigo Slate,Агломерация Сиэтла,3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+629,Big Data Hadoop,Diverse Lynx,"Raritan, NJ",3 недели назад,Гибридный формат работы,middle,unknown,USA,1,0,0,0,0,0
+630,Data Analyst,Cognizant,"Сан-Хосе, CA",3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+631,Data Engineer,CMA CGM,"Мэриленд, Соединенные Штаты Америки",4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,1,0
+632,Data Engineer,Dice,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,1,0
+633,Data Engineer,Advantis Global,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+634,Machine Learning Engineer / Data Analyst,Broad Institute of MIT and Harvard,"Кембридж, MA",1 день назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,0,0,0
+635,Data Engineer,Apex Systems,"Иден-Прери, MN",1 день назад,Удаленная работа,middle,data engineer,USA,1,0,0,0,0,0
+636,Data Analytics Consultant,CNA Insurance,"Чикаго, IL",1 неделю назад,Работа в офисе,middle,data analyst,USA,1,0,0,1,0,0
+637,Data Science Engineer - 2023 Summer Intern,Sabre Corporation,"Southlake, TX",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+638,Data Analyst,State Farm,"Dunwoody, GA",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+639,Voice Data Engineer,Leidos,"Арлингтон, VA",2 дня назад,Работа в офисе,senior,data engineer,USA,1,0,0,0,0,0
+640,"Scala Software Engineer, Data Management & Governance - Apple Media Products (AMP)",Apple,"Сиэтл, WA",2 недели назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,1,0
+641,Data Science Analyst,American Heart Association,"Гринсборо, NC",3 недели назад,Работа в офисе,senior,data scientist,USA,1,0,1,1,0,0
+642,Data Storage Engineer/ Data Storage Specialist,Dice,"Даллас, TX",3 дня назад,Работа в офисе,junior,data engineer,USA,1,0,0,1,0,0
+643,Data Center Analyst 4,Unisys,"Коннектикут, Соединенные Штаты Америки",3 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+644,RESEARCH DATA ANALYST II,CalPERS,"Сакраменто, CA",3 дня назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,0
+645,Dev10 Entry Level Data Engineer - Nationwide,Genesis10,"Балтимор, MD",2 недели назад,Гибридный формат работы,senior,data engineer,USA,1,0,0,0,0,0
+646,Senior Data Analyst,SpringbokIT,Метроплекс Даллас/Форт-Уэрт,2 дня назад,Удаленная работа,junior,data analyst,USA,1,0,1,1,0,0
+647,Online Data Analyst | English (US) | Freelance Remote Job,TELUS International AI Data Solutions,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+648,Data Engineer,Harnham,"Сан-Франциско, CA",1 неделю назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,0,0,0
+649,Data Engineer - R01520958,Brillio,Соединенные Штаты Америки,3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+650,GCP Data Engineer,Experis,"Кэри, NC",5 дней назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,1,1
+651,Test Data Engineer,Edward Jones,"Нью-Йорк, NY",6 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+652,Senior Data Analyst (Revenue),Dorsia,Агломерация Нью-Йорка,1 день назад,Гибридный формат работы,senior,data analyst,USA,1,0,0,1,0,0
+653,Data Engineer,Kasasa,Соединенные Штаты Америки,2 дня назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+654,Sr. BI Analyst (Boston area),the LEGO Group,"Бостон, MA",3 дня назад,Работа в офисе,senior,data analyst,USA,1,0,0,1,0,0
+655,Software Engineer IV – .NET/Data/Cloud,AccruePartners,"Сан-Диего, CA",1 неделю назад,Гибридный формат работы,middle,data engineer,USA,1,0,0,1,0,0
+656,Sr Data Analyst,Children's Health,Метроплекс Даллас/Форт-Уэрт,3 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+657,Health Data Analyst Senior - Remote,Prime Therapeutics,"Миннеаполис, MN",2 дня назад,Удаленная работа,junior,data analyst,USA,1,0,0,0,0,0
+658,Data Engineer/Java Developer,"KellyMitchell Group, Inc","Плейно, TX",3 месяца назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+659,Software Engineer (Mission Data) - Early Career with Security Clearance,ClearanceJobs,"Форт-Уэрт, TX",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+660,"Principal Software Engineer, Java/Data",Genesys,"Трентон, NJ",2 недели назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,1
+661,ML Engineer/Analytics Engineer,Diverse Lynx,Соединенные Штаты Америки,1 месяц назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,0
+662,Azure Data Developer,Global Atlantic Financial Group,"Бостон, MA",2 дня назад,Работа в офисе,junior,unknown,USA,1,1,0,0,0,0
+663,KP-Data Engineer,Dice,"Шарлотт, NC",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,1,0
+664,Data Analyst,Big Huge Games,"Timonium, MD",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,1,1,0,0
+665,Sr. Customer Data Analyst,"Barnes & Noble, Inc.",Агломерация Нью-Йорка,1 неделю назад,Гибридный формат работы,senior,data analyst,USA,1,0,1,1,0,0
+666,Online Data Analyst | Work From Home,TELUS International AI Data Solutions,"Флорида, Соединенные Штаты Америки",2 недели назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+667,Early Careers: Health Analytics Consulting Analyst,Aon,"Линкольншир, IL",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,1,0,0
+668,Data Analyst,Booz Allen Hamilton,"Хантсвилл, AL",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,1,0,0,0
+669,Data Analyst (Remote Eligible),Busey,Соединенные Штаты Америки,1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+670,.NET Engineer III - EDI Claims Platform,Elevance Health,"Гранд-Прейри, TX",3 недели назад,Работа в офисе,senior,data engineer,USA,1,0,0,1,0,0
+671,Data Engineer,Addison Group,"Солт-Лейк-Сити, UT",2 дня назад,Гибридный формат работы,senior,data engineer,USA,1,0,1,1,0,0
+672,Remote Sr Data Analyst,Insight Global,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+673,Data Engineer,"The Goodkind Group, LLC",Соединенные Штаты Америки,3 дня назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+674,Data Engineer II,Vail Systems,"Deerfield, IL",5 дней назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,1,1
+675,Test Data Engineer,Edward Jones,"Бостон, MA",6 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,1
+676,Staff Sales Data Analyst (Remote),Intuit,"Техас Сити, TX",1 неделю назад,Удаленная работа,senior,data analyst,USA,1,0,1,1,0,0
+677,Customer Analytics Analyst,Prologis,"Финикс, AZ",10 часов назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+678,Analytics Analyst,The Judge Group,"Нью-Йорк, NY",5 дней назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+679,Manufacturing Data Analytics Engineer,"V-Soft Consulting Group, Inc.","Шарлотт, NC",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+680,Back-End Data Processing Engineer,Zenex Partners,"Сан-Хосе, CA",1 неделю назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,0,0,1
+681,Affirmative Action / EEO Data Analyst – Remote,Ogletree Deakins,"Новый Орлеан, LA",2 дня назад,Удаленная работа,middle,data analyst,USA,1,1,0,0,0,0
+682,Lead Data Engineer,Zenith,"Нью-Йорк, NY",2 дня назад,Работа в офисе,team lead,data engineer,USA,1,0,1,0,0,0
+683,ETL Data Engineer,Visionary Innovative Technology Solutions LLC,"Mount Laurel, NJ",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,0
+684,Azure Data Engineer - Databricks,Dice,"Атланта, GA",3 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+685,Data Stewart/Analyst,Allegis Group,"Балтимор, MD",1 неделю назад,Удаленная работа,senior,data analyst,USA,1,0,0,1,0,0
+686,Data Developer,Tata Consultancy Services,"Robbinsville Township, NJ",5 дней назад,Работа в офисе,middle,unknown,USA,1,0,1,1,0,0
+687,Data Science Analyst,Dice,"Фримонт, CA",2 дня назад,Работа в офисе,middle,data scientist,USA,1,0,1,1,0,0
+688,Clinical Data Analyst,GForce Life Sciences,"Нью-Йорк, Соединенные Штаты Америки",1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,0,0,0
+689,Senior Data Analyst,X4 Technology,"Хьюстон, TX",3 дня назад,Гибридный формат работы,senior,data analyst,USA,1,0,1,1,0,0
+690,Data Engineer,Trupanion,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,1,0
+691,Staff Data Engineer (Mailchimp),Intuit,"Атланта, GA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,0
+692,ESG Data Analyst,Metric Search,"Маклин, VA",1 неделю назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,0
+693,"Principal Software Engineer, Java/Data",Genesys,"Роли, NC",2 недели назад,Удаленная работа,middle,data engineer,USA,1,0,1,0,0,1
+694,Snowflake Data Engineer,Ascendion,"Даллас, TX",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+695,Healthcare Data Analyst,Healthfirst,"Нью-Йорк, NY",2 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+696,2023 Summer Intern - Data Science Predictive Analytics,Roche,"South San Francisco, CA",2 дня назад,Работа в офисе,senior,data scientist,USA,1,0,1,0,0,0
+697,Data Engineer/Full Stack Developer/AWS Solutions Architect,ArmorDoc,"Нью-Йорк, NY",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,1
+698,Data Engineer,Manulife,"Бостон, MA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+699,Affirmative Action / EEO Data Analyst – Remote,Ogletree Deakins,"Чикаго, IL",2 дня назад,Удаленная работа,middle,data analyst,USA,1,1,0,0,0,0
+700,Data Engineer/Full-Stack Developer (TS/SCI+Polygraph),IBM,"Chantilly, VA",2 дня назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,1
+701,"Data Engineer, Mid",Booz Allen Hamilton,"Херндон, VA",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,0
+702,Data Engineer (Kafka),Dice,"Дарем, NC",1 день назад,Работа в офисе,middle,data engineer,USA,1,0,0,1,0,1
+703,ML Data Engineer,Diverse Lynx,"Сан-Антонио, TX",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+704,Staff Sales Data Analyst (Remote),Intuit,"Arizona City, AZ",1 неделю назад,Удаленная работа,senior,data analyst,USA,1,0,1,1,0,0
+705,Data Platform Engineer,Truist,"Атланта, GA",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+706,Business Intelligence & Data Analyst,NEC Corporation of America,"Арлингтон, VA",1 неделю назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,0,0,0
+707,Online Data Analyst | Work From Home,TELUS International AI Data Solutions,"Дарем, NC",3 недели назад,Удаленная работа,middle,data analyst,USA,1,0,0,0,0,0
+708,Azure Data Engineer,"Milestone Technologies, Inc.",Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data engineer,USA,1,0,0,1,0,0
+709,Data Science Cloud Engineer with Security Clearance,ClearanceJobs,"Ашберн, VA",1 месяц назад,Работа в офисе,middle,data engineer,USA,1,0,0,0,0,0
+710,Data Engineer (Hybrid Work Model),Sentry,"Stevens Point, WI",1 неделю назад,Работа в офисе,senior,data engineer,USA,1,0,0,1,0,1
+711,Jr. Data Analyst (Remote),Conexess Group,"Morris Plains, NJ",1 неделю назад,Удаленная работа,junior,data analyst,USA,1,0,1,1,0,0
+712,Data Engineer,Insight Global,Агломерация Шарлотт,5 дней назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,0
+713,Data Engineer,MATRIX Resources,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data engineer,USA,1,0,1,1,0,0
+714,Data Engineer,UST,"Сан-Хосе, CA",4 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,1
+715,2023 Intern - Finance Data Engineer,Adobe,"Лихай, UT",2 недели назад,Работа в офисе,senior,data engineer,USA,1,0,0,1,0,0
+716,"Ad Tech, Data Engineer","Audacy, Inc.","Ванкувер, WA",4 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+717,Supply Chain Data Analyst,Ciber Global,"Оберн-Хилс, MI",1 день назад,Работа в офисе,senior,data analyst,USA,1,0,0,0,0,0
+718,Manufacturing Data Engineer,Electric Hydrogen,"Нейтик, MA",3 дня назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+719,Data Engineer,TransPerfect,Область залива Сан-Франциско,3 недели назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,0
+720,CONTRACT - Software Engineer -- Data Analytics (NTD),Nintendo,"Редмонд, WA",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+721,Data Engineer,RightClick,"Уайт-Плейнс, NY",2 дня назад,Гибридный формат работы,middle,data engineer,USA,1,0,1,1,0,1
+722,"Data Engineer, Mid",Booz Allen Hamilton,"Сан-Диего, CA",2 дня назад,Гибридный формат работы,senior,data engineer,USA,1,0,1,1,1,0
+723,Data Developer,Seneca Resources,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,unknown,USA,1,0,0,1,0,0
+724,Data Programmer and Engineer,Booz Allen Hamilton,"Тампа, FL",1 неделю назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,0,1
+725,Data Analyst,Insight Global,Соединенные Штаты Америки,4 дня назад,Удаленная работа,middle,data analyst,USA,1,0,0,1,0,0
+726,Data Analyst,Interfolio,Соединенные Штаты Америки,5 дней назад,Удаленная работа,middle,data analyst,USA,1,0,1,1,0,1
+727,Data Engineer Internship – 2023 (US),Amazon,"Сиэтл, WA",7 часов назад,Работа в офисе,middle,data engineer,USA,1,0,1,1,1,0
+728,Data Engineer,System Soft Technologies,Соединенные Штаты Америки,2 дня назад,Удаленная работа,senior,data engineer,USA,1,0,1,1,0,0
+729,Data Analyst,Apex Systems,"Колумбия, MD",4 дня назад,Гибридный формат работы,middle,data analyst,USA,1,0,0,1,0,0
+730,Data Analyst,"Kapsuun Group, LLC","Александрия, VA",4 дня назад,Работа в офисе,middle,data analyst,USA,1,0,0,0,0,0
+731,"Senior Analyst, Strategy and Analytics",Rent-A-Center,"Плейно, TX",1 неделю назад,Гибридный формат работы,senior,data analyst,USA,1,0,1,1,0,0
+732,Cloud Data Engineer,Slalom,"Сан-Франциско, CA",1 день назад,Работа в офисе,middle,data engineer,USA,1,0,1,0,0,1
+733,Data Science Analyst,American Heart Association,"Милуоки, WI",3 недели назад,Работа в офисе,middle,unknown,USA,1,0,0,0,0,0
