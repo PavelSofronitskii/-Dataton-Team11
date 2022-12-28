@@ -19,6 +19,8 @@
 
 :file_folder:images - содержит изображения
 
+:file_folder:Parsing - содержит методы сбора данных
+
 :scroll:Team11.ipynb, Job_Analysis (4).ipynb - итоговые ноутбуки
 
 ## Используемые источники для поиска данных:detective:: 
